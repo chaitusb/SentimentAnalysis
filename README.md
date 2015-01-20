@@ -1,1 +1,3 @@
-# SentimentAnalysis
+# Sentiment Analysis
+
+Sentiment Analysis is a special category of Text Categorization wherein with the help of several Machine Learning techniques, we aim to classify documents not by their topic but by their overall sentiment. As suggested in the research paper “Thumbs Up ? Sentiment Classification using Machine Learning Techniques”, capturing the overall sentiment of a particular document demands better understanding of the data. This project analyzes the results observed by three machine learning methods (language model classifier, perceptron classifier and support vector machine) we employed on a dataset of equally distributed 2000 movie reviews.
